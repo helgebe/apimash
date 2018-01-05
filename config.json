@@ -1,0 +1,9 @@
+const config = {
+"apis" : [
+  { "name"  : "coinmarketcap",
+    "url"   : "https://api.coinmarketcap.com/v1/ticker/?limit=20"},
+      { "name"  : "coinhills",
+    "url"   : "https://api.coinhills.com/v1/cspa/btc/"}
+]
+
+}
